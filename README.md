@@ -1,2 +1,2 @@
 # license
-A software key system hosted on license.sociopath.cc. Not public yet.
+A software key system hosted on https://license.sociopath.cc. Not public yet.
